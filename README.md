@@ -23,7 +23,7 @@ My sources will include:
 
 ## 2020 infections:
 
-![](photo_sources\covidtrends.png)
+![](./photo_sources/covidtrends.png)
 
 
 
